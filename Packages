@@ -1,0 +1,56 @@
+Package: rexinxwy.cj.appstoreplusplus
+Version: 0.9.10
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/appstoreplusplus_0.9.10_iphoneos-arm.deb
+Size: 327496
+MD5sum: e35d18c853dd4e7be7858c1085251a0a
+SHA1: ed9a621bc7d14076c4630b45e45b1f9e8cae4ae6
+SHA256: ccc163a72389cff9991c0a0e9b7a6f01bb38a309be2c2c4c898c51c42983060e
+Section: Rexin-插件(Tweaks)
+Priority: optional
+Description: 允许你降级/升级iOS 11.0-13.4应用商店中的应用程序
+Author: CokePokes
+Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=appstoreplusplus
+Icon: xxx
+Name: AppStore++「应用降级」
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+
+Package: rexinxwy.cj.taobaoyouhuiquan
+Version: 2.0.9
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/taobaoyouhuiquan_2.0.9_iphoneos-arm.deb
+Size: 85716
+MD5sum: 10179d35d7463e273ea154cb5d035d34
+SHA1: 0012a274e4d39f247a3f0978ef94311cf97ac99d
+SHA256: cc40937fe9bbffc0a41768a4fe931090cf6d0e3fb549dab45fc591ff45931f57
+Section: Rexin-插件(Tweaks)
+Priority: optional
+Description: 淘宝优惠券插件
+Author: Mao
+Icon: xxx.png
+Name: 淘宝优惠券
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+
+Package: rexinxwy.zq.bilibilivip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Rexinxwy <rexinxiaowangyou@163.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/bilibilivip_1.0.4_iphoneos-arm.deb
+Size: 631408
+MD5sum: f3b329a64c45c40715b00154888658c0
+SHA1: be705fa100a075ed8c0c711b67ae015902ed525a
+SHA256: b7f54aac04b815abd8ebc88011fe9d5af6831f25dcf97a34f8bf12d1a032791d
+Section: Rexin-增强(Enhance)
+Description: 解锁哔哩哔哩大会员，需登录自己账户
+Author: 星星点灯
+Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=bilibilivip
+Icon: xxx
+Name: Bilibili VIP「大会员」
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+

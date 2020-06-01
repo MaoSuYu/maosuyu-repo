@@ -1,0 +1,12 @@
+Package: rexinxwy.cj.taobaoyouhuiquan
+Version: 2.0.9
+Priority: optional
+Description: 淘宝优惠券插件
+Section: Rexin-插件(Tweaks)
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: 淘宝优惠券
+Author: Mao
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+Icon: xxx.png
